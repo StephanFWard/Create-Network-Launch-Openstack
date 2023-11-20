@@ -13,7 +13,7 @@ This script automates the process of creating a network and launching an instanc
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/stephanfward/openstack-android-setup.git
+   git clone https://github.com/StephanFWard/Create-Network-Launch-Openstack.git
 Configure the Script:
 
 Open the script (create_network_and_launch_instance.sh) in a text editor and update the necessary parameters such as OpenStack credentials, network settings, and instance details.
